@@ -1,0 +1,9 @@
+Recruiters----------
+Signup(Name,Company Name, position, NumOfPosition)-api
+Job Post(position, salalry, starting date ,closing date)
+
+
+
+Job Seekers-------------
+Signup(name,email,password,address,phonenumber)
+showAllJobs(applied,not-applied)
